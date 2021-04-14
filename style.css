@@ -1,0 +1,18 @@
+h1,h2,h3,h4{
+	text-align: center;
+	text-transform: uppercase;
+}
+p	{
+	font-family: calibri;
+	text-align: justify;
+}
+
+.layanankami {
+	background-color: #c51f33;
+	color: white;
+}
+.copyright {
+	font-family: calibri;
+	font-size: 20px;
+	background-color: lightgrey;
+}
