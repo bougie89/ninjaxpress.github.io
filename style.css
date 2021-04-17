@@ -20,3 +20,10 @@ p	{
 hr {
 	width: 50px;
 }
+
+footer {
+	font-family: times new roman;
+	font-size: 10px;
+	text-align: center;
+	text-transform: capitalize;
+}
